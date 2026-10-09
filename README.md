@@ -12,4 +12,4 @@ pip install -r requirements.txt
 
 Keep your password list tight. scrypt is slow by design.
 
-<!-- last-checked: 2026-10-08 -->
+<!-- last-checked: 2026-10-09 -->
